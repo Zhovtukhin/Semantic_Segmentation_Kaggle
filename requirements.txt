@@ -1,0 +1,7 @@
+numpy
+pandas
+opencv-python
+matplotlib
+keras
+skimage
+tqdm
