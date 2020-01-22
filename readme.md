@@ -4,8 +4,8 @@ Provide Jupyter Notebook of my solution for this problem with all outputs. Also 
 Notebook was run in Kaggle karnel because of fre GPU. So datasets wasn't instal localy. 29 GB is too large.
 ### Tools
 In project used python with such librarys:
-	*jupyter notebook for local usage
-	*NumPy for linear algebra
+	- jupyter notebook for local usage
+	- NumPy for linear algebra
 	*Pandas for datasets
 	*Matplotlib for plotting and visualization
 	*Keras as backend
