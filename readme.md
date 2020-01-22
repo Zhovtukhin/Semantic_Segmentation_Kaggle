@@ -1,6 +1,6 @@
 # Semantic segmentation 
 Notebook for Kaggle competition 'Airbus Ship Detection Challenge' https://www.kaggle.com/c/airbus-ship-detection/overview
-Provide Jupyter Notebook of my solution for this problem with all outputs. Also script(not tested)
+Provide Jupyter Notebook of my solution for this problem with all outputs. Also script(not tested) and pretrained models for 25 and 40 epochs
 Notebook was run in Kaggle karnel because of fre GPU. So datasets wasn't instal localy. 29 GB is too large.
 ### Tools
 In project used python with such librarys:
